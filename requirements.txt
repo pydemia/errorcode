@@ -1,0 +1,4 @@
+pydantic[dotenv]
+mypy
+pytest-cov
+PyYAML

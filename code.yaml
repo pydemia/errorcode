@@ -1,0 +1,15 @@
+SUCCESS:
+  number: 0
+  message:
+    kr: "성공"
+    en: "success"
+FAIL:
+  num: -1
+  message:
+    kr: "실패"
+    en: "fail"
+UNDEFINED_ERROR:
+  number: -9999
+  message:
+    kr: "Undefined Error"
+    en: "정의되지 않은 오류입니다."
