@@ -67,5 +67,3 @@ class ActionStatus(BaseEnum):
     MODIFIED = "MODIFIED"
     DELETED = "DELETED"
     ERROR = "ERROR"
-
-
